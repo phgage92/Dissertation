@@ -1,2 +1,2 @@
 # Dissertation
-MSc UoB
+MSc University of Bath
