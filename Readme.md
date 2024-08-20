@@ -5,7 +5,7 @@
 Author: Stephen Lyen\
 Date: 18 August 2024
 
-Dissertation for MSc in Computer Science\
+Dissertation for MSc in Computer Science
 
 ## Contents
 1. [Submitted Files](#submitted-files)
@@ -17,7 +17,7 @@ Dissertation for MSc in Computer Science\
 
 ## Submitted Files (Engage)
 
-Summarised list and brief description of the files submitted on Engage. All of these files are also available on github: <link>
+Summarised list and brief description of the files submitted on Engage. All of these files are also available on github: <Github link](https://github.com/phgage92/Dissertation)>
 
 * Python Notebooks\
 Details in subsequent Python Notebooks section. 
