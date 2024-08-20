@@ -164,6 +164,5 @@ set_label = 'Protocol' or 'UrgBin'
 
 
 ## Contact
-
-Stephen Lyen\
+Please contact the author Stephen Lyen if there are any issues\
 email: smmtl20@bath.ac.uk
