@@ -5,7 +5,7 @@
 Author: Stephen Lyen\
 Date: 18 August 2024
 
-Dissertation for MSc in Computer Science\
+Dissertation for MSc in Computer Science
 
 ## Contents
 1. [Submitted Files](#submitted-files)
