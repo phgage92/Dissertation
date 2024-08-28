@@ -18,7 +18,7 @@ Dissertation for MSc in Computer Science\
 
 ## Submitted Files (Engage)
 
-Summarised list and brief description of the files submitted on Engage. All of these files are also available on github: <[Github link](https://github.com/phgage92/Dissertation)> and Google Drive <[Drive link](https://drive.google.com/drive/folders/1paH5A-5rxyYVgU4DYup3hVsgQ9mp5HDM?usp=sharing)>
+Summarised list and brief description of the files submitted on Engage. All of these files are also available on github: <[Github link](https://github.com/phgage92/Dissertation)>. Google Drive link available in submitted Readme.md file.
 
 * Notebooks.zip\
 Details in subsequent Python Notebooks section. 
@@ -34,7 +34,7 @@ Details in subsequent Python Notebooks section.
     10. ModelTester.ipynb
 
 * Sample.xlsx\
-This ia sample dataset file, as the full datasets exceed Engage Bath upload limits. This is not intended to be run with the provided notebooks. Please see [Download Files](#download-files) section for link to full datasets.
+This ia sample dataset file, as the full datasets exceed Engage Bath upload limits. This is not intended to be run with the provided notebooks. 
 
 * Readme file
 
@@ -45,7 +45,7 @@ Extract the contents of Notebooks.zip to your chosen folder.
 
 ### 2. Download files
 
-Full anonymised datasets, study models and pre-trained RoBERTa model are available for download from Google Drive: <[Drive link](https://drive.google.com/drive/folders/1paH5A-5rxyYVgU4DYup3hVsgQ9mp5HDM?usp=sharing)>
+Full anonymised datasets, study models and pre-trained RoBERTa model are available for download from Google Drive: (Google Drive link available in submitted Readme.md file.)
 
 1. Models (Folder)
 2. Data (Folder)
@@ -78,7 +78,7 @@ As the study was performed using Google Colaboratory, the data has been temporar
 7. protocol_bert_cnn.pth
 8. protocol_roberta_cnn.pth 
 
-<[Google Drive link](https://drive.google.com/drive/folders/1paH5A-5rxyYVgU4DYup3hVsgQ9mp5HDM?usp=sharing)>
+(Google Drive link available in submitted Readme.md file.)
 
 <u>**Before Running Code:**</u> please copy the Models folder to the same location as the .ipynb files. 
 
@@ -116,7 +116,7 @@ File list:
 9. nlp_languages.csv
 10. SampleRaw.xlsm
 
-<[Google Drive link](https://drive.google.com/drive/folders/1paH5A-5rxyYVgU4DYup3hVsgQ9mp5HDM?usp=sharing)>
+(Google Drive link available in submitted Readme.md file.)
 
 <u>**Before Running Code:**</u> please save the Data folder in the folder containing the .ipynb files.
 
